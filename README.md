@@ -6,7 +6,7 @@ Project completed on February 6, 2026.
 
 This project aims to predict loan default risk for applicants of Home Credit Bank. The task is a binary classification problem where the goal is to determine whether a client will experience payment difficulties.
 
-The dataset contains multiple relational tables describing applicants' financial histories, including previous loans, credit bureau records, and installment payments. These tables were merged into a single applicant-level dataset through extensive feature engineering and aggregation.
+The dataset contains multiple relational tables describing applicants' financial histories, including previous loans, credit bureau records, and installment payments. These tables were merged into a single applicant-level dataset through **extensive feature engineering and aggregation**.
 
 The final dataset includes 386 engineered features describing applicants' credit behavior, financial history, and demographic attributes.
 
