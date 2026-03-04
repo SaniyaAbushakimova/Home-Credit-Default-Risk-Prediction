@@ -36,11 +36,10 @@ Key tables include:
 ## Exploratory Data Analysis (EDA)
 
 EDA and preprocessing were performed in `solution_notebook.ipynb` and include:
-
-* **Data Cleaning**
-* **Handling missing values**
-* **Correcting anomalous placeholder values** (e.g., DAYS_EMPLOYED = 365243)
-* **Removing irrelevant or redundant variables**
+* Data Cleaning
+* Handling missing values
+* Correcting anomalous placeholder values
+* Removing irrelevant or redundant variables
 * **Feature Engineering**
   * Significant feature engineering was required to combine the relational tables into a single dataset. Key steps included:
     1. Aggregating historical financial records at the applicant level.
